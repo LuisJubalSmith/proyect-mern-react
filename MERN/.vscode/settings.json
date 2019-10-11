@@ -1,0 +1,7 @@
+{
+    "prettier.disableLanguages": [
+        "javascriptreact"
+    ],
+    "prettier.jsxBracketSameLine": true,
+    "prettier.singleQuote": true
+}
